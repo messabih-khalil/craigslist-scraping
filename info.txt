@@ -1,0 +1,16 @@
+path : https://albany.craigslist.org/search/apa
+
+post div : "li.result-row"
+
+post.title  : result-title
+
+post.price : result-price
+
+post.link : li a
+
+post.date  : result-date
+
+post.date tag : <time class="result-date" datetime="2022-07-04 23:51" title="Mon 04 Jul 11:51:12 PM">Jul  4</time>
+
+
+*************************** details page *********************
